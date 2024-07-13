@@ -1,0 +1,15 @@
+- Vì tool mang tính get thông tin data và chứa các thông tin nhạy cảm nên window sẽ báo tool dính virus ( Hãy tắt virus khi sd, tool của Bảo làm nên 100% không có botnet nhé!. Bán cho khách mà gắn botnet :v )
+- Nói trước nếu ae vẫn nghi ngờ mình gắn botnet thì mình cũng không gắn con botnet rách không bypass được WD với virus total nhé
+
+- Có 2 file thì run file nào cũng được hết nhé miễn tool hoạt động
+- Sẽ có 3 dòng:
++ dòng đầu ae nhập domain web cần deface
++ dòng 2 nhập đường dẫn tới file chứa các web cần deface nhé (liên quan tới dòng 1)
++ dòng 3 nhập đường dẫn output data (Gồm web/username/pass)
+
+Sẽ có video đi kèm nhé Bảo sẽ gửi sau
+Lưu ý:
+! Không chia sẻ tool dưới mọi hình thức
+
+Hatoki Deface All Rights Reserved 
+Telegram: @hotieubao123
